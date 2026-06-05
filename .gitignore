@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.wav
+*.txt
+reports/
+*.pth
+calibration_data.pkl
+calibration_count.json
+*.log
+.DS_Store
