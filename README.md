@@ -1,4 +1,3 @@
-```markdown
 # IELTS Speaking Assessor – AI-Powered Pronunciation & Fluency Evaluation
 
 A complete, zero‑shot IELTS speaking assessment system that evaluates all four criteria using deep learning, acoustic feature engineering, and reinforcement learning.
